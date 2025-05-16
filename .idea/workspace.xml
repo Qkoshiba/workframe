@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2851a421-627d-4c59-807c-a561d327efb4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Framework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First Techno music.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configfiles/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/home/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/home/custom_logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/home/login_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/home/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/home/login_tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/home/onemoretest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilities/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilities/custom_logger.py" afterDir="false" />
-    </list>
+    <list default="true" id="2851a421-627d-4c59-807c-a561d327efb4" name="Changes" comment="Working framework page with Loging page class, login test, added input to select arguments for loging in the web site - user and pass. added files with custom_logger.py but still not working." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,6 +81,19 @@
       <option name="presentableId" value="Default" />
       <updated>1747235345467</updated>
     </task>
+    <task id="LOCAL-00001" summary="Working framework page with Loging page class, login test, added input to select arguments for loging in the web site - user and pass. added files with custom_logger.py but still not working.">
+      <option name="closed" value="true" />
+      <created>1747416022170</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747416022170</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Working framework page with Loging page class, login test, added input to select arguments for loging in the web site - user and pass. added files with custom_logger.py but still not working." />
+    <option name="LAST_COMMIT_MESSAGE" value="Working framework page with Loging page class, login test, added input to select arguments for loging in the web site - user and pass. added files with custom_logger.py but still not working." />
   </component>
 </project>

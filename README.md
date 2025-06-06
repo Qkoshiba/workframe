@@ -1,0 +1,3 @@
+The Test Case is to log in, then tap all courses, find the Selenium course, enrol, and choose the plan. Here is the first and easy iframe. Then we have to scroll down and try to buy the course with fake bank card digits. Here is the hardest part with a lot of iframes. Finally, we must confirm that the card information is wrong and we can not buy the course.
+This project is using the framework made in the cource. Due to a lot of changes during all those years and the way I learn there are a lot of changes in the code from the original.
+Please use the code from this branch only. I have not tested if the pushed version contains all.
